@@ -1,8 +1,8 @@
 <h1 align="center">
-  Mikoto Platforms
+  mikoto platforms
 </h1>
 <p align="center">
-<code align="center"><a href='https://github.com/mikotoIO/mikoto'>Monorepo</a> · <a href='https://mikoto.io'>Website</a> · <a href='https://alpha.mikoto.io'>Alpha</a> · <a href='https://docs.mikoto.io'>Docs</a> · <a href='https://blog.mikoto.io'>Blog</a> · <a href='https://twitter.com/mikotoIO'>Twitter</a>
+<code align="center"><a href='https://github.com/mikotoIO/mikoto'>monorepo</a> · <a href='https://mikoto.io'>website</a> · <a href='https://alpha.mikoto.io'>alpha</a> · <a href='https://docs.mikoto.io'>docs</a> · <a href='https://blog.mikoto.io'>blog</a> · <a href='https://twitter.com/mikotoIO'>twitter</a>
   
 </code>
 </p>
