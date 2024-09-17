@@ -1,14 +1,38 @@
-## Hi there ⚡
+<h1 align="center">
+  Mikoto Platforms
+</h1>
 
-We are Mikoto Platforms, and we are building the most overkill messaging application for individuals, communities, and organizations.
+<p align="center">
+  <a href='https://mikoto.io'>Website</a> · 
+  <a href='https://alpha.mikoto.io'>Alpha</a> ·
+  <a href='https://docs.mikoto.io'>Docs</a> ·
+  <a href='https://blog.mikoto.io'>Blog</a> ·
+  <a href='https://twitter.com/mikotoIO'>Twitter</a>
+</p>
+<br>
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```
+　　　　　　　　　　　ｒヘ、 _　　__＿__
+　　　　　　　　　 ｒ‐-､ﾍ_)´.　´　　　　　　￣ﾞﾞ~¨　　　…‐-　　　..,,_______
+　　　　　　　ﾄ､｢￣ヽ　_,. :'´　　　　　　　　　　　　　　　　　　　　　　 　　‐-ミ
+　　　　　　　| _}..ﾆ斗'´　　　　_,,..､､-- 　..,,_＿　　　　　　　　　　　　 　     l
+　　　　　 て¨´　　　 　 　 ／　　　　 : : : : : : :ﾍﾆ=‐-　..,,_　　　　　　        |
+ 　　　　　　 ｀:ｰｒ‐---　イ　/　　    　. .::::::::ﾄ､:〉:.＼ 　 ミト ...,,_ 　 　 |
+ 　　　　　　　　ﾉ: : : : i :/　/ 　 : : /: l: : :i : i| 〈: :∧:.＼ 　 　 7　　 　 ,
+　　　　　 　 　 . : : :〈∨　.′. .: .:|::::/::|::i:::ｉ|∨ ∧: :i:　　 /　 　   　 ′
+　　　　　　　/: :::::∧〉i::::人:/ : ノ| :/l: ::ｉ|／ ∨iｌ: :i:　 /　　　  　   ,ﾞ
+  　　　　　/ :::::/:i::l::／l   个=‐     |:/: l／ ﾘ   〉|:八./  {  　 　  ′
+   　　　　　/ : : : :／::|:::厶イ一什ﾄト、:/　　   x=ミ斗i^从 /l |　        ,'
+　　　　／ : : :／:}.:.: !::_ll:|,ィ斥i: 　　　　 　  |ﾉ i个‐＼　　 　     /､
+  　　／-‐ :イ:/ /: : /: :｢ｒ:l从^ Ｖｒﾘ　　　 ､　 　 lj: i :|　　　＼　 ∧ ｀、
+ 　　　　　　 l/ /: : /:l: 八 l iﾑ ´′　　　　　　　　  八:l :|　　　　　:〈: :} : ｀、
+　　　　　　　 /: : /: :|/: : ＼.iﾍ、　　　　 _,.　-‐ ,ｲｒ'´lハ　　　　 　 ＼:　 |
+ 　　　　　　 /: : / 　:| l : : |l :介:､  _/⌒ヽ　　 ／　{:　　　　 　 　 　 ＼}
+ 　　　　　　 {: :/ 　 :ﾉ |.: :.八 l 小ﾍ,'´ ⌒ヽ}- ＜＼　 '.　　　　　　　  ／
+　　　　 　 　 ､{　　　 ﾉ:Ｖ／⌒"__人_.ノ,. :'⌒ヽ　､ '. 　 　.:　 　 　 ／
+　　　　　　　　 　 　 　 / 　 　l'´ ⌒ ｀¨¨´　　　／　 .}　'. . . :　／
+　　　　　　　　　 　 　 ;　　　/{　　　 　__,,..　 '  　 　 |　 ∨　／
+　　　 　 　 　 　 　 　 |　　//|　　　￣　　　　　}＼__｣　　〈_／
+　　　 　 　 　 　 　 　 |　//　{　　　　　　　　／｀l　}:}　r=ﾐ{
+```
